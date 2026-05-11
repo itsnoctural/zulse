@@ -1,0 +1,7 @@
+.{
+    .name = .zulse,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.16.0",
+    .paths = .{""},
+    .fingerprint = 0x7a794bd6e1039c0a,
+}
